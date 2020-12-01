@@ -1,0 +1,2 @@
+# NUISDevOpsExam
+Scripts for questions 
